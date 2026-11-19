@@ -1,0 +1,9 @@
+{
+  "name": "comfyui-desktop",
+  "version": "1.0.0",
+  "description": "Install, configure, troubleshoot and build ComfyUI Desktop, the Electron app that bundles ComfyUI, its frontend, ComfyUI-Manager and uv: file locations, model paths, logs and the development build.",
+  "homepage": "https://github.com/Comfy-Org/desktop",
+  "repository": "https://github.com/Achi-Akira/comfyUI",
+  "license": "GPL-3.0",
+  "keywords": ["comfyui", "desktop", "electron", "stable-diffusion", "models", "custom-nodes"]
+}
